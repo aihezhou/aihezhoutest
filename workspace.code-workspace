@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\WeChatProjects\\miniprogram-1\\components"
+		},
+		{
+			"path": "..\\..\\WeChatProjects\\miniprogram-1\\icons"
+		},
+		{
+			"path": "..\\..\\WeChatProjects\\miniprogram-1\\lib"
+		},
+		{
+			"path": "..\\..\\WeChatProjects\\miniprogram-1\\pages"
+		},
+		{
+			"path": "..\\..\\WeChatProjects\\miniprogram-1\\request"
+		},
+		{
+			"path": "..\\..\\WeChatProjects\\miniprogram-1\\styles"
+		},
+		{
+			"path": "..\\..\\WeChatProjects\\miniprogram-1\\utils"
+		}
+	]
+}
